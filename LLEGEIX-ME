@@ -1,0 +1,32 @@
+### Comandes executades ###
+
+1-
+a) git branc branca00
+b) git checkout branca00
+c) git status per comprobar l'estat del projecte
+git branch per comprobar la branca on em trobo
+
+5-
+git checkout main
+git status
+git log
+La diferència amb l'historial de la branca00 es que no apareix el commit versió 1.1 perquè esta fet des d'una altre branca.
+
+7)git checkout branca00
+
+10b)git merge branca00
+
+12)git push
+
+14a)git push -u origin branca01
+
+### Respostes ###
+
+6) No es pot veure l'ultima línea afegida perquè la modificació esta feta d'es d'una altre branca.
+
+7) Si puc veure l'última línea afegida perquè la modificació l'hem fet des de la mateixa branca des d'on estem consultant-ho.
+
+12c) Només s'ha actualitzat la branca main perquè em fusionat les branques main i branca00
+
+14c)La branca01 està a un commit de distància
+
